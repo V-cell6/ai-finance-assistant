@@ -4,6 +4,9 @@
 ## Overview
 Welth is an AI-powered financial management platform that helps users track their expenses, detect spending trends, and receive actionable insights via email. Built with modern full-stack technologies, Welth ensures a seamless and secure user experience.
 
+![image](https://github.com/user-attachments/assets/1830e01c-3999-4c79-9131-73ec0f10e684)
+
+
 ## Features
 - **AI-Powered Expense Tracking**: Uses Google Gemini AI to analyze and provide insights into spending patterns.
 - **Automated Alerts**: Notifies users about unusual spending trends via email.
@@ -30,6 +33,7 @@ Welth is an AI-powered financial management platform that helps users track thei
 
 
 <img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
+
 
 ### Make sure to create a `.env` file with following variables -
 
