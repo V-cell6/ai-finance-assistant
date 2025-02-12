@@ -15,13 +15,15 @@ Welth is an AI-powered financial management platform that helps users track thei
 - **Scalable Backend**: Uses Supabase and Prisma for database management with PostgreSQL.
 - **Background Processing**: Utilizes Inngest for efficient event-driven workflows.
 
-- Home Page
+Home Page
+
 ![image](https://github.com/user-attachments/assets/0e8d7ba7-c3a2-4eb3-9ce0-c70504df242f)
 
 User Authentication/Sign-In Page
 ![image](https://github.com/user-attachments/assets/e4dac4b8-00db-47df-8eda-2df6bb513d6d)
 
-- Dashboard
+Dashboard
+
 ![image](https://github.com/user-attachments/assets/168a4228-70f4-4ac3-a5de-cd81eab714d0)
 
 ![image](https://github.com/user-attachments/assets/b860c317-e7d2-495e-8afe-c998d2411f0e)
