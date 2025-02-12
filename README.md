@@ -16,15 +16,29 @@ Welth is an AI-powered financial management platform that helps users track thei
 - **Background Processing**: Utilizes Inngest for efficient event-driven workflows.
 
 - Home Page
-
-![image](https://github.com/user-attachments/assets/6d8ce79f-f65b-4759-8ba7-e80b3fce18d0)
-
+![image](https://github.com/user-attachments/assets/0e8d7ba7-c3a2-4eb3-9ce0-c70504df242f)
 
 User Authentication/Sign-In Page
-![image](https://github.com/user-attachments/assets/8214bac5-a88b-4535-bd30-01906a74ad89)
+![image](https://github.com/user-attachments/assets/e4dac4b8-00db-47df-8eda-2df6bb513d6d)
 
 - Dashboard
-![image](https://github.com/user-attachments/assets/7ca07c6a-425f-4be4-a5ab-0e50ab9c61f4)
+![image](https://github.com/user-attachments/assets/168a4228-70f4-4ac3-a5de-cd81eab714d0)
+
+![image](https://github.com/user-attachments/assets/b860c317-e7d2-495e-8afe-c998d2411f0e)
+
+![image](https://github.com/user-attachments/assets/03b9c56f-cac0-403d-afb8-8a0add24d15a)
+
+Scanning Receipts with AI
+
+![image](https://github.com/user-attachments/assets/06c2d974-f53c-419c-a1c2-06c7a53c9835)
+
+Inngest functions
+
+![image](https://github.com/user-attachments/assets/b027c7c7-b93e-4c95-9f16-6813b7e4147e)
+
+
+
+
 
 
 
